@@ -14,8 +14,8 @@ Have a great cooking :)
 - Spoonacular API
 
 ## file system
--index.html contains the basic structure of the application
--style.css contains the frontend desing and detailing
--main.js contains the main code 
--images folder contains one image for the background
+- index.html contains the basic structure of the application
+- style.css contains the frontend desing and detailing
+- main.js contains the main code 
+- images folder contains one image for the background
  
